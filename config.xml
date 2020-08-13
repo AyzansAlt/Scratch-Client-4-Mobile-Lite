@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="io.github.ayzansalt.atestapp" version="1.0.0" >
 
-  <name>A Test App</name>
+  <name>Itchy Lite</name>
 
   <description>Some description.</description>
 
-  <author href="https://scratch.mit.edu/users/you" email="you@example.com">You</author>
+  <author href="github.com/scratch-client-4" email="sc4@micahlindley.com">SC4 Team</author>
 
   <icon src="icon.png" />
 

@@ -1,1 +1,1 @@
-# TestPhoneGapApp
+# Itchy Lite
